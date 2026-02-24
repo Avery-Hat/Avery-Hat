@@ -11,6 +11,7 @@ I'm also finishing up my backend developer path at Boot.dev! So far the main thi
   - SQL
   - Docker
   - Git
+
 and so much more! You can see my progress through my Boot.dev link below my Bio! 
 
 My aim is to continue to learn more via coding, and create projects that help me with issues in my life.
