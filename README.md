@@ -4,7 +4,7 @@
 
 Lately I've been updating my Youtube-Radar project to show more data that I want for when researching via youtube videos. 
 
-I'm also finishing up my backend developer path at Boot.dev! So far the main things I'm familiar with are:
+I'm also finishing up my backend developer path at Boot.dev! I'm familiar with:
   - Python
   - Go
   - C#
